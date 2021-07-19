@@ -1,6 +1,7 @@
-# MeanCourse
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+# Assignment
+Run node server.js to start backend.....
+Run ng serve to start frontend....
+Have used MongoDb sandbox cloud cluste, so you will need to provide me your IP address to give read/write access in DB.....
 
 ## Development server
 
